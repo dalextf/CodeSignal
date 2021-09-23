@@ -1,4 +1,4 @@
-package dad;
+package dad.codesignal;
 
 /**
  * Hello world!

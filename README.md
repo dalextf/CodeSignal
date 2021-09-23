@@ -1,4 +1,4 @@
 # CodeSignal
 
-Ejercicios resueltos de [Codesignal](https://codesignal.com/).
+Ejercicios resueltos de [Codesignal](https://app.codesignal.com/profile/david_alex_g).
 
